@@ -21,7 +21,7 @@
 <p align = 'left'>
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg' />
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg' />
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg'>
+
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
