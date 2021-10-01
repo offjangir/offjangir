@@ -2,7 +2,7 @@
 
 <h3> I am a Pre Final Year Undergraduate Student at BITS Goa. </h3>
 
-- 😄 Full Stack Robocist 
+- 😄 Full Stack Roboticist 
 - 🌱 I’m currently exploring Controls, Navigation, and Perception.
 - 💬 Talk to me about Drones, and Robots.
 
