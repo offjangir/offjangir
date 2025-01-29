@@ -2,9 +2,10 @@
 
 <h3> I am a Final Year Undergraduate Student at BITS Goa. </h3>
 
-- 😄 Full Stack Roboticist 
-- 🌱 I’m currently exploring Controls, Navigation, and Perception.
-- 💬 Talk to me about Drones, and Robots.
+- Life is about knowing things ? I wanna know as much as I can.
+- 😄 Robotics and AI
+- 🌱 Where am I ? Master's in Robotics @ Carnegie Mellon University
+- 💬 Talk to me about 3d Vision, Robot Perception, and also life :)  
 
 
 
