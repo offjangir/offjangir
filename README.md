@@ -1,6 +1,6 @@
 ### Hey there, I'm Yash: [Offjangir.github.io](https://offjangir.github.io/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 
-<h3> I am a Final Year Undergraduate Student at BITS Goa. </h3>
+<h3> Yo!. </h3>
 
 - Life is about knowing things ? I wanna know as much as I can.
 - 😄 Robotics and AI
